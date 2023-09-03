@@ -1,3 +1,99 @@
 <resources>
     <string name="app_name">Movie List Application</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description\nTes</string>
+    <string name="movie_rating">8.2/10</string>
+
+    <string-array name="movies_title">
+        <item>The Flash</item>
+        <item>Fury</item>
+        <item>John Wick: Chapter 4</item>
+        <item>Spider-Man: No Way Home</item>
+        <item>Top Gun: Maverick</item>
+        <item>Extraction 2</item>
+        <item>Interstellar</item>
+        <item>Plane</item>
+        <item>Hacksaw Ridge</item>
+        <item>Avengers: Endgame</item>
+    </string-array>
+
+    <string-array name="movies_description">
+        <item>
+            "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?"
+        </item>
+        <item>
+            "In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany."
+        </item>
+        <item>
+            "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
+        </item>
+        <item>
+            "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man."
+        </item>
+        <item>
+            "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen."
+        </item>
+        <item>
+            "Tasked with extracting a family who is at the mercy of a Georgian gangster, Tyler Rake infiltrates one of the world's deadliest prisons in order to save them. But when the extraction gets hot, and the gangster dies in the heat of battle, his equally ruthless brother tracks down Rake and his team to Vienna, in order to get revenge."
+        </item>
+        <item>
+            "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
+        </item>
+        <item>
+            "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage."
+        </item>
+        <item>
+            "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor."
+        </item>
+        <item>
+            "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store."
+        </item>
+
+    </string-array>
+
+    <string-array name="movies_poster">
+        <item>
+            https://image.tmdb.org/t/p/original/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg
+        </item>
+        <item>
+            https://image.tmdb.org/t/p/original/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg
+        </item>
+        <item>
+            https://image.tmdb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg
+        </item>
+        <item>
+            https://image.tmdb.org/t/p/original/5weKu49pzJCt06OPpjvT80efnQj.jpg
+        </item>
+        <item>
+            https://image.tmdb.org/t/p/original/pQjHWJdbkHkPcAUKSkMum6AnYqn.jpg
+        </item>
+        <item>
+            https://image.tmdb.org/t/p/original/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg
+        </item>
+        <item>
+            https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
+        </item>
+        <item>
+            https://image.tmdb.org/t/p/original/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg
+        </item>
+        <item>
+            https://image.tmdb.org/t/p/original/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg
+        </item>
+        <item>
+            https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg
+        </item>
+    </string-array>
+
+    <string-array name="movies_rating">
+        <item>6.8/10</item>
+        <item>7.6/10</item>
+        <item>7.8/10</item>
+        <item>8.2/10</item>
+        <item>8.3/10</item>
+        <item>7.0/10</item>
+        <item>8.7/10</item>
+        <item>6.5/10</item>
+        <item>8.1/10</item>
+        <item>8.4/10</item>
+    </string-array>
 </resources>
