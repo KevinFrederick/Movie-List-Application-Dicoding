@@ -3,6 +3,7 @@
     <style name="Base.Theme.MovieListApplication" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/light_gray</item>
     </style>
 
     <style name="Theme.MovieListApplication" parent="Base.Theme.MovieListApplication" />

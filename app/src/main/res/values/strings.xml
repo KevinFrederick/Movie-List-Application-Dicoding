@@ -1,8 +1,18 @@
 <resources>
     <string name="app_name">Movie List Application</string>
+    <string name="content_description_poster">Movie Poster</string>
+    <string name="content_description_icon">Icon Share</string>
     <string name="movie_title">Movie Title</string>
-    <string name="movie_description">Movie Description\nTes</string>
+    <string name="movie_description">Movie Description\nLorem Ipsum</string>
     <string name="movie_rating">8.2/10</string>
+    <string name="movie_director">Director</string>
+    <string name="movie_director_name">Director Name</string>
+    <string name="movie_overview">Overview</string>
+
+    <string name="about_me">About Me</string>
+    <string name="back_button">Back</string>
+    <string name="my_name">Kevin Frederick Yapiter</string>
+    <string name="my_email">kevin55622@gmail.com</string>
 
     <string-array name="movies_title">
         <item>The Flash</item>
@@ -15,6 +25,19 @@
         <item>Plane</item>
         <item>Hacksaw Ridge</item>
         <item>Avengers: Endgame</item>
+    </string-array>
+
+    <string-array name="movies_director_name">
+        <item>Andy Muschietti</item>
+        <item>David Ayer</item>
+        <item>Chad Stahelski</item>
+        <item>Jon Watts</item>
+        <item>Joseph Kosinski</item>
+        <item>Sam Hargrave</item>
+        <item>Christopher Nolan</item>
+        <item>Jean-Francois Richet</item>
+        <item>Mel Gibson</item>
+        <item>Anthony Russo, Joe Russo</item>
     </string-array>
 
     <string-array name="movies_description">

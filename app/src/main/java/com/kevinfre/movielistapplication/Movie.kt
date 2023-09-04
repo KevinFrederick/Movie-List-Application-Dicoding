@@ -8,5 +8,6 @@ data class Movie(
     val title: String,
     val description: String,
     val poster: String,
-    val rating: String
+    val rating: String,
+    val director: String
 ) : Parcelable

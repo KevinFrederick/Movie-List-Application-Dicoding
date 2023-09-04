@@ -1,5 +1,6 @@
 package com.kevinfre.movielistapplication
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -32,5 +33,11 @@ class MovieListAdapter(private val listMovie: ArrayList<Movie>) : RecyclerView.A
             .load(poster)
             .into(holder.imgPoster)
         holder.tvRating.text = rating
+
+        holder.itemView.setOnClickListener {
+            val intentDetail = Intent(holder.itemView.context, MovieDetail::class.java)
+            intentDetail.putExtra(MovieDetail.EXTRA_MOVIE, listMovie[holder.adapterPosition])
+            holder.itemView.context.startActivity(intentDetail)
+        }
     }
 }
